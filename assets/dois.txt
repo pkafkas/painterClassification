@@ -1,0 +1,6 @@
+Webb, James. Game Theory Devisions, Interaction and Evolution.
+Springer, 2007
+https://doi.org/10.1007/978-1-84628-636-0
+
+Russell, Stuart J. and Norvig, Peter. Artificial Intelligence: A Modern Approach.
+Pearson, 2020
