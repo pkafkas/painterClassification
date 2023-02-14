@@ -139,7 +139,7 @@ def train_and_display(led_name, drop_name, in_url):
         in_url = demo_predictor('RandomForest', in_url)   
         #pass
     else:
-        in_url = 'b'
+        in_url = 'No valid Url entered'
 
     X_test = feature_matrix.drop(columns = 'painter')
     y_test = feature_matrix['painter']
