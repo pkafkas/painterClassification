@@ -38,6 +38,8 @@ and two (2) .py python files that contain a dash DEMO:
 
         1.5 Demo Data PCA: step 1.3 is repeated for DEMO data.
 
+        1.6 Feature Selection: Implementation of SelectKBEst method, for finding the optimal number of feature columns. Exports results to feature_matrix_kbest.csv file for later use.
+
 
 2) Open 2ClassifierTraining.ipynb
 
